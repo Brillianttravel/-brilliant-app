@@ -1,1 +1,1 @@
-# -brilliant-app
+# brilliant-app
