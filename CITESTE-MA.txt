@@ -1,0 +1,11 @@
+ACTUALIZARE BRILLIANT – PREȚURI ȘI DESIGN FESTIV
+
+Încarcă în rădăcina repository-ului (lângă index.html) fișierele index.html și service-worker.js, înlocuind versiunile existente. În plus, încarcă fișierul assets/dubai-newyear.jpg în folderul assets deja existent.
+
+Prețuri afișate orientativ per persoană:
+- Crăciun în Maramureș: 1.099 lei
+- Revelion în Dubai: 2.199 EUR
+
+Prețurile sunt propuneri promoționale orientative, nu tarife confirmate. Confirmați serviciile incluse, disponibilitatea și prețurile înainte de a accepta rezervări.
+
+Pași: GitHub → repository → Add file → Upload files. Încarcă index.html și service-worker.js la rădăcină. Apoi intră în assets și încarcă dubai-newyear.jpg. Commit changes. După publicare, deschide aplicația și apasă Ctrl+Shift+R. Nu șterge offers.json și nu reîncărca celelalte 149 de imagini.
